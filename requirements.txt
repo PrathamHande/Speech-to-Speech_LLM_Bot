@@ -1,0 +1,13 @@
+faster-whisper
+ollama
+PyMuPDF
+sentence-transformers
+scipy
+piper-tts
+soundfile
+sounddevice
+pyaudio # For microphone input
+torch # Silero VAD dependency
+torchaudio # Silero VAD dependency
+# If PyAudio fails on Windows, try finding a pre-compiled wheel:
+# e.g., pip install https://download.lfd.uci.edu/pythonlibs/archived/PyAudio-0.2.11-cp39-cp39-win_amd64.whl (adjust cp39 to your Python version)

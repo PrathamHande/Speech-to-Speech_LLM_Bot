@@ -102,7 +102,7 @@ This project is a great foundation for building more advanced conversational AI.
 
 ## 📂 Directory Structure
 
-
+```
 Speech-to-Speech_LLM_Bot/
 ├── data/
 │   └── your-document.pdf
@@ -110,4 +110,5 @@ Speech-to-Speech_LLM_Bot/
 │   ├── en_US-lessac-high.onnx
 │   └── en_US-lessac-high.onnx.json
 ├── bot_hub
-└── requirements.txt 
+└── requirements.txt
+``` 
